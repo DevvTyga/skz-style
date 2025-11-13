@@ -26,28 +26,28 @@ export const EIGHT_ITEMS = [
 export const SKZ: Artist[] = [
   {
     name: "방찬",
-    img: "bangchan.jpg",
+    img: "1.png",
   },
   {
     name: "리노",
-    img: "leeknow.jpg",
+    img: "2.png",
   },
   {
     name: "창빈",
-    img: "changbin.jpg",
+    img: "3.png",
   },
   {
     name: "현진",
-    img: "hyunjin.jpg",
+    img: "4.png",
   },
   {
     name: "한",
-    img: "han.jpg",
+    img: "5.png",
   },
   {
     name: "필릭스",
-    img: "felix.jpg",
+    img: "6.png",
   },
-  { name: "승민", img: "seungmin.jpg" },
-  { name: "아이엔", img: "in.jpg" },
+  { name: "승민", img: "7.png" },
+  { name: "아이엔", img: "8.png" },
 ];
