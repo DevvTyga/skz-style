@@ -14,4 +14,4 @@
 
 | 다운로드 결과                          |
 | -------------------------------------- |
-| <img width="380" alt="" src="https://github.com/KupOfTea/skz-style/assets/63589031/0ae16fb2-fcb1-4dfa-95ee-1b2da9a5af3a"> |
+| <img width="380" alt="" src="https://github.com/KupOfTea/skz-style/assets/63589031/0ae16fb2-fcb1-4dfa-95ee-1b2da9a5af3a">|
