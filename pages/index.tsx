@@ -32,7 +32,7 @@ export default function Home() {
         unoptimized={true}
       />
       <div className="mb-10 flex flex-col w-full space-y-5 items-center justify-center">
-        <a href="https://ducktility.studio/">리뉴얼된 취향표 사이트로 와 주세요!</a>
+        <a href="https://ducktility.studio/" className="font-extrabold text-2xl">리뉴얼된 취향표 사이트로 와 주세요!</a>
         <NavigationButton
           onClick={() => {}}
           href={"/nine"}
