@@ -116,7 +116,7 @@ export default function StyleCanvas() {
         context.textAlign = "right";
         context.font = "500 22px sans-serif";
         context.fillText(
-          "@DevShunrises - 스키즈 취향표",
+          "@DevvTyga - 스키즈 취향표",
           canvas.width - 10,
           canvas.height - 10
         );
