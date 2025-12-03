@@ -45,7 +45,7 @@ export default function NineVersionLayout() {
             ))}
             <div className="p-2">
               <p className="text-[6px] text-gray-900 font-light whitespace-nowrap">
-                @DevShunrises - 스키즈 취향표
+                @DevvTyga - 스키즈 취향표
               </p>
             </div>
           </div>
